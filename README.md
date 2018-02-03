@@ -9,8 +9,8 @@ planning and implementation.
 ## Tools Used
 
 -   UML Modelling
-        \* StarUML
+    -   StarUML
 -   Version Control
-        \* GIT
+    -   GIT
 -   Editor
-        \* Vim
+    -   Vim
