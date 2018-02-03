@@ -14,3 +14,5 @@ planning and implementation.
     -   GIT
 -   Editor
     -   Vim
+-   Framework
+    -   Django 2.0
